@@ -3,6 +3,7 @@ User-Interface
 	Eingabefeld
 	HUD
 Netzwerkadapter
+	TCP Adapter
 Kampf-System
 Minions
 Items
