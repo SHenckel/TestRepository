@@ -1,4 +1,7 @@
 User-Interface
+	Maus
+	Eingabefeld
+	HUD
 Netzwerkadapter
 Kampf-System
 Minions
