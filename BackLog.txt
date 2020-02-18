@@ -1,3 +1,5 @@
 User-Interface
 Netzwerkadapter
 Kampf-System
+Minions
+Items
