@@ -1,7 +1,15 @@
 User-Interface
 	Maus
+	komplett keine Maus
 	Eingabefeld
 	HUD
+		Leben
+		Befehle
+		Items
+		Mana?
+		Event Warnung
+		Zeitanzeige
+		Ranking/Gegner Name
 Netzwerkadapter
 	TCP Adapter
 Kampf-System
