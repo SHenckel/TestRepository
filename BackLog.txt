@@ -15,3 +15,6 @@ Netzwerkadapter
 Kampf-System
 Minions
 Items
+sinvoll1
+sinvoll2
+sinvoll3
