@@ -7,3 +7,9 @@ Netzwerkadapter
 Kampf-System
 Minions
 Items
+
+Linda Items:
+
+Map
+	verkleinerung
+	events
