@@ -15,3 +15,7 @@ Netzwerkadapter
 Kampf-System
 Minions
 Items
+unfug1
+unfug2
+unfug3
+wasgutes
