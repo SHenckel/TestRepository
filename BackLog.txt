@@ -13,3 +13,7 @@ Linda Items:
 Map
 	verkleinerung
 	events
+
+Sinnvoll1
+Sinnvoll2
+Sinnvoll3
